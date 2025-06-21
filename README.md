@@ -21,7 +21,7 @@ I'm a passionate and results-driven .NET Developer with hands-on experience in w
     </ul>
 
 <h2 align="left">🛠️ My Projects</h2>
-<img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> fcamilalima
+<img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> [Github](https://github.com/fcamilalima)
 
 ### 🌱 What I'm Looking For
 I'm currently seeking new opportunities as a developer where I can contribute my skills, learn from others, and grow professionally.
@@ -67,7 +67,7 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
       <br/><br/>
       <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
-      <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"> 
+      <img align="center" alt="Gitlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"> 
     </kbd>
     <kbd>
       <kbd>Environments</kbd>
