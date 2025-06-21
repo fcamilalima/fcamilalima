@@ -7,22 +7,21 @@ I'm a passionate and results-driven .NET Developer with hands-on experience in w
 
 
 <h2 align="left">Technical Skills</h2>
-<ul>
-<li><strong>Programming:</strong> C#, VB.NET, PowerBuilder</li>
-<li><strong>Web:</strong>HTML, CSS, JavaScript, Razor Pages</li>
-<li><strong>Databases:** MySQL, SQL Server, PostgreSQL</li>
-</ul>
+    <ul>
+        <li><strong>Programming:</strong> C#, VB.NET, PowerBuilder</li>
+        <li><strong>Web:</strong>HTML, CSS, JavaScript, Razor Pages</li>
+        <li><strong>Databases:** MySQL, SQL Server, PostgreSQL</li>
+    </ul>
   
 <h2 align="left">🚀 What I Do</h2>
-<ul>
-<li>Design and build robust, scalable web applications</li>
-<li>Develop and optimize SQL queries for complex business requirements</li>
-<li>Collaborate in agile teams to deliver high-quality, maintainable code</li>
-</ul>
+    <ul>
+        <li>Design and build robust, scalable web applications</li>
+        <li>Develop and optimize SQL queries for complex business requirements</li>
+        <li>Collaborate in agile teams to deliver high-quality, maintainable code</li>
+    </ul>
 
 <h2 align="left">🛠️ My Projects</h2>
-<img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-Explore my projects on [GitHub](https://github.com/fcamilalima) to see my work in action.
+<img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> fcamilalima
 
 ### 🌱 What I'm Looking For
 I'm currently seeking new opportunities as a developer where I can contribute my skills, learn from others, and grow professionally.
