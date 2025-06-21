@@ -10,7 +10,7 @@ I'm a passionate and results-driven .NET Developer with hands-on experience in w
     <ul>
         <li><strong>Programming:</strong> C#, VB.NET, PowerBuilder</li>
         <li><strong>Web:</strong>HTML, CSS, JavaScript, Razor Pages</li>
-        <li><strong>Databases:** MySQL, SQL Server, PostgreSQL</li>
+        <li><strong>Databases: </strong> MySQL, SQL Server, PostgreSQL</li>
     </ul>
   
 <h2 align="left">🚀 What I Do</h2>
@@ -21,7 +21,7 @@ I'm a passionate and results-driven .NET Developer with hands-on experience in w
     </ul>
 
 <h2 align="left">🛠️ My Projects</h2>
-<img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> [Github](https://github.com/fcamilalima)
+<a herf="https://github.com/fcamilalima"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  /></a>
 
 ### 🌱 What I'm Looking For
 I'm currently seeking new opportunities as a developer where I can contribute my skills, learn from others, and grow professionally.
