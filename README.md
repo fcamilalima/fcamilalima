@@ -48,7 +48,6 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
       <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
       <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-      <img align="center" alt="Redis" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg">
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -58,13 +57,13 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
       <img align="center" alt="Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
       <img align="center" alt="JavaScript" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
       <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-      <img align="center" alt="Knockout" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/knockout/knockout-plain-wordmark.svg">
     </kbd>
     <kbd>
       <kbd>Others</kbd>
       <br/><br/>
       <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+      <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
+      <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/gitlab-original-wordmark.svg"> 
     </kbd>
     <kbd>
       <kbd>Environments</kbd>
