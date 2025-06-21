@@ -13,12 +13,15 @@ I'm a passionate and results-driven .NET Developer with hands-on experience in w
 <li><strong>Databases:** MySQL, SQL Server, PostgreSQL</li>
 </ul>
   
-### 🚀 What I Do
-- Design and build robust, scalable web applications
-- Develop and optimize SQL queries for complex business requirements
-- Collaborate in agile teams to deliver high-quality, maintainable code
+<h2 align="left">🚀 What I Do</h2>
+<ul>
+<li>Design and build robust, scalable web applications</li>
+<li>Develop and optimize SQL queries for complex business requirements</li>
+<li>Collaborate in agile teams to deliver high-quality, maintainable code</li>
+</ul>
 
-### 🛠️ My Projects
+<h2 align="left">🛠️ My Projects</h2>
+<img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 Explore my projects on [GitHub](https://github.com/fcamilalima) to see my work in action.
 
 ### 🌱 What I'm Looking For
