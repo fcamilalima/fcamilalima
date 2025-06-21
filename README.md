@@ -1,11 +1,17 @@
-## 👋 Hi, I'm Camila Lima
+<div align="center">
+    <h1>Hello! I am Camila Lima</h1>
+</div>
+<h2 align="left"> Talk a litle about me: </h2>
 
 I'm a passionate and results-driven .NET Developer with hands-on experience in web technologies including HTML, CSS, Razor Pages, and JavaScript. My expertise extends to both front-end and back-end development, with strong skills in C#.NET, VB.NET, and PowerBuilder.
 
-### 💼 Technical Skills
-- **Programming:** C#, VB.NET, PowerBuilder
-- **Web:** HTML, CSS, JavaScript, Razor Pages
-- **Databases:** MySQL, SQL Server, PostgreSQL
+
+<h2 align="left">Technical Skills</h2>
+<ul>
+<li><strong>Programming:</strong> C#, VB.NET, PowerBuilder</li>
+<li><strong>Web:</strong>HTML, CSS, JavaScript, Razor Pages</li>
+<li><strong>Databases:** MySQL, SQL Server, PostgreSQL</li>
+</ul>
   
 ### 🚀 What I Do
 - Design and build robust, scalable web applications
