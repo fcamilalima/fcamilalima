@@ -61,7 +61,7 @@ I'm currently seeking new opportunities as a developer where I can contribute my
       <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </kbd>
     <kbd>
-      <kbd>Others</kbd>
+      <kbd>Version Control</kbd>
       <br/><br/>
       <img align="center" alt="GitHub" height="50" width="50" src="https://github.com/user-attachments/assets/137dfed0-a5bf-48d2-a19a-9129ef7eb895" />
       <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> 
@@ -75,4 +75,20 @@ I'm currently seeking new opportunities as a developer where I can contribute my
     </kbd>
   </div>
 </div>
+
+<h2 align="left"> Algumas métricas: </h2>
+<div align="center">
+  
+ ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fcamilalima&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcamilalima&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fcamilalima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcamilalima&layout=compact&langs_count=6&theme=dracula"/><br>
+</div>
+      
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake.svg">
+</picture>
 
