@@ -41,6 +41,7 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
       <br/><br/>
       <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img align="center" alt=".NET" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
+        <img align="center" alt=".NET" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-plain.svg">
     </kbd>
     <kbd>
       <kbd>Database</kbd>
