@@ -7,7 +7,7 @@
 I'm a passionate and results-driven .NET Developer with hands-on experience in web technologies including HTML, CSS, Razor Pages, and JavaScript. My expertise extends to both front-end and back-end development, with strong skills in C#.NET, VB.NET, and PowerBuilder.
 
 <h2 align="left">
-  <img alt="Technological Skills" height="30" width="30" src="https://img.icons8.com/ios-filled/50/000000/settings.png" style="vertical-align: middle; margin-right: 8px;" />
+  <img width="30" height="30" src="https://img.icons8.com/keek/100/settings.png" alt="settings"/>
   Technical Skills
 </h2>
 
