@@ -1,33 +1,36 @@
 <div align="center">
     <h1>Hello! I am Camila Lima</h1>
 </div>
-<h2 align="left"> Talk a litle about me: </h2>
+
+<h2 align="left">A little about me:</h2>
 
 I'm a passionate and results-driven .NET Developer with hands-on experience in web technologies including HTML, CSS, Razor Pages, and JavaScript. My expertise extends to both front-end and back-end development, with strong skills in C#.NET, VB.NET, and PowerBuilder.
 
+<h2 align="left">
+  <img alt="Technological Skills" height="30" width="30" src="https://img.icons8.com/ios-filled/50/000000/settings.png" style="vertical-align: middle; margin-right: 8px;" />
+  Technical Skills
+</h2>
 
-<h2 align="left">Technical Skills</h2>
-    <ul>
-        <li><strong>Programming:</strong> C#, VB.NET, PowerBuilder</li>
-        <li><strong>Web:</strong>HTML, CSS, JavaScript, Razor Pages</li>
-        <li><strong>Databases: </strong> MySQL, SQL Server, PostgreSQL</li>
-    </ul>
-  
+<ul>
+    <li><strong>Programming:</strong> C#, VB.NET, PowerBuilder</li>
+    <li><strong>Web:</strong> HTML, CSS, JavaScript, Razor Pages</li>
+    <li><strong>Databases:</strong> MySQL, SQL Server, PostgreSQL</li>
+</ul>
+
 <h2 align="left">🚀 What I Do</h2>
-    <ul>
-        <li>Design and build robust, scalable web applications</li>
-        <li>Develop and optimize SQL queries for complex business requirements</li>
-        <li>Collaborate in agile teams to deliver high-quality, maintainable code</li>
-    </ul>
-
-<h2 align="left">🛠️ My Projects</h2>
-<a herf="https://github.com/fcamilalima"><img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  /></a>
-
-### 🌱 What I'm Looking For
+<ul>
+    <li>Design and build robust, scalable web applications</li>
+    <li>Develop and optimize SQL queries for complex business requirements</li>
+    <li>Collaborate in agile teams to deliver high-quality, maintainable code</li>
+</ul>
+    
+<h2 align="left">🌱 What I'm Looking For</h2>
 I'm currently seeking new opportunities as a developer where I can contribute my skills, learn from others, and grow professionally.
 
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/fcamilalima)
+<h2 align="left">📫 Let's Connect</h2>
+<ul>
+    <li><a href="https://www.linkedin.com/in/fcamilalima">LinkedIn</a></li>
+</ul>
 
 ---
 
@@ -43,15 +46,16 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
       <br/><br/>
       <img align="center" alt="C#" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img align="center" alt=".NET" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
-        <img align="center" alt=".NET" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-plain.svg">
+      <img align="center" alt="VB.NET" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-plain.svg">
+      <!-- No official PowerBuilder icon; consider using a generic code icon or text -->
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br/><br/>
       <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+      <img align="center" alt="SQL Server" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
       <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-      <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
+      <img align="center" alt="Elasticsearch" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -65,15 +69,16 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
     <kbd>
       <kbd>Others</kbd>
       <br/><br/>
-      <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
-      <img align="center" alt="Gitlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"> 
+      <img align="center" alt="GitLab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg"> 
     </kbd>
     <kbd>
       <kbd>Environments</kbd>
       <br/><br/>    
       <img align="center" alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img align="center" alt="VisualStudio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
+      <img align="center" alt="Visual Studio" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
     </kbd>
   </div>
 </div>
+
