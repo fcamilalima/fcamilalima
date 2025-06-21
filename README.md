@@ -48,6 +48,8 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
       <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <img align="center" alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
       <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+        <img align="center" alt="PostgreSQL" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
+        
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
