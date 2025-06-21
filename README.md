@@ -63,7 +63,7 @@ Outside of coding, I enjoy going to the gym and dancing. I believe a healthy bod
       <br/><br/>
       <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
       <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"> 
-      <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/gitlab-original-wordmark.svg"> 
+      <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain-wordmark.svg"> 
     </kbd>
     <kbd>
       <kbd>Environments</kbd>
