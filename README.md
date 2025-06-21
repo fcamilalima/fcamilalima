@@ -26,5 +26,3 @@ I'm currently seeking new opportunities as a developer where I can contribute my
 Outside of coding, I enjoy going to the gym and dancing. I believe a healthy body and mind are key to professional success.
 
 ---
-
-Feel free to reach out for collaboration or if you have an opportunity that matches my profile!
