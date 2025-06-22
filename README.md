@@ -30,18 +30,18 @@
 <h2 align="left">🌱 What I'm Looking For</h2>
 I'm currently seeking new opportunities as a developer where I can contribute my skills, learn from others, and grow professionally.
 
-<h2 align="left">Languages and Technologies I use most:</h2>
+<h2 align="left">🧰 Languages and Technologies I use most:</h2>
 <div align="center">
   <div style="display: inline_block"><br>
     <kbd>
-      <kbd>Back-end</kbd>
+      <kbd>🔧 Back-end</kbd>
       <br/><br/>
       <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/color/96/net-framework.png" /> 
       <img align="center" alt="VB.NET" height="60" width="60" src="https://img.icons8.com/fluency/96/visual-basic.png" />
     </kbd>
     <kbd>
-      <kbd>Database</kbd>
+      <kbd>🛢️ Database</kbd>
       <br/><br/>
       <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/user-attachments/assets/4b39f2e1-2580-4c8a-96ad-9cc1b3fd3334">
       <img align="center" alt="SQL Server" height="60" width="60" src="https://github.com/user-attachments/assets/07699a26-6748-4bdb-8d67-64da2fdd95f6" />
@@ -49,7 +49,7 @@ I'm currently seeking new opportunities as a developer where I can contribute my
       <img align="center" alt="Elasticsearch" height="60" width="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png" />
     </kbd>
     <kbd>
-      <kbd>Front-end</kbd>
+      <kbd>🎨 Front-end</kbd>
       <br/><br/>
       <img align="center" alt="HTML" height="60" width="60" src="https://github.com/user-attachments/assets/0049d0db-c1de-4159-a9c3-fcc54a304ac4">
       <img align="center" alt="CSS" height="60" width="60" src="https://github.com/user-attachments/assets/1a146187-cec1-4875-8787-5aac05116d5f">
@@ -58,14 +58,14 @@ I'm currently seeking new opportunities as a developer where I can contribute my
       <img align="center" alt="React" height="60" width="60" src="https://github.com/user-attachments/assets/f745d44d-46f7-4394-ba23-33ca1ce14b81">
     </kbd>
     <kbd>
-      <kbd>Version Control</kbd>
+      <kbd>🔄 Version Control</kbd>
       <br/><br/>
       <img align="center" alt="GitHub" height="60" width="60" src="https://github.com/user-attachments/assets/137dfed0-a5bf-48d2-a19a-9129ef7eb895" />
       <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> 
       <img align="center" alt="GitLab" height="60" width="60" src="https://github.com/user-attachments/assets/25d57e62-b04f-48d8-a3e9-006afc351d44" /> 
     </kbd>
     <kbd>
-      <kbd>Environments</kbd>
+      <kbd>🛠️ Environments</kbd>
       <br/><br/>    
       <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
       <img align="center" alt="Visual Studio" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
@@ -73,7 +73,7 @@ I'm currently seeking new opportunities as a developer where I can contribute my
   </div>
 </div>
 
-<h2 align="left"> Some metrics bellow: </h2>
+<h2 align="left">📊 Some metrics bellow: </h2>
 <div align="center">
 
  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
