@@ -3,7 +3,7 @@
 </div>
 
 <h2 align="left">
-    <img width="30" height="30" src=https://github.com/user-attachments/assets/dd8b6d2f-b6b4-42d8-aaff-e3efd7e31fb9 />
+    <img width="30" height="30" src="https://img.icons8.com/fluency/48/developer-female.png" alt="developer-female"/>
     A little about me:</h2>
     <ul>
         <li>I'm a passionate and results-driven .NET Developer with hands-on experience in web technologies including HTML, CSS, Razor Pages, and JavaScript. My expertise extends to both front-end and back-end development, with strong skills in C#.NET, VB.NET, and PowerBuilder.</li>
@@ -36,33 +36,33 @@ I'm currently seeking new opportunities as a developer where I can contribute my
     <kbd>
       <kbd>Back-end</kbd>
       <br/><br/>
-      <img align="center" alt="C#" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-      <img align="center" alt=".NET" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
-      <img align="center" alt="VB.NET" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-plain.svg">
+      <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/color/96/net-framework.png" /> 
+      <img align="center" alt="VB.NET" height="60" width="60" src="https://img.icons8.com/fluency/96/visual-basic.png" />
     </kbd>
     <kbd>
       <kbd>Database</kbd>
       <br/><br/>
-      <img align="center" alt="MySQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <img align="center" alt="SQL Server" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-      <img align="center" alt="PostgreSQL" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-      <img align="center" alt="Elasticsearch" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original.svg">
+      <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/user-attachments/assets/4b39f2e1-2580-4c8a-96ad-9cc1b3fd3334">
+      <img align="center" alt="SQL Server" height="60" width="60" src="https://github.com/user-attachments/assets/07699a26-6748-4bdb-8d67-64da2fdd95f6" />
+      <img align="center" alt="PostgreSQL" height="60" width="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" />
+      <img align="center" alt="Elasticsearch" height="60" width="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png" />
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
       <br/><br/>
-      <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-      <img align="center" alt="JavaScript" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-      <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+      <img align="center" alt="HTML" height="60" width="60" src="https://github.com/user-attachments/assets/0049d0db-c1de-4159-a9c3-fcc54a304ac4">
+      <img align="center" alt="CSS" height="60" width="60" src="https://github.com/user-attachments/assets/1a146187-cec1-4875-8787-5aac05116d5f">
+      <img align="center" alt="Bootstrap" height="60" width="60" src="https://img.icons8.com/color/96/bootstrap--v2.png" alt="bootstrap--v2" />
+      <img align="center" alt="JavaScript" height="60" width="60" src="https://img.icons8.com/color/96/javascript--v1.png" />
+      <img align="center" alt="React" height="60" width="60" src="https://github.com/user-attachments/assets/f745d44d-46f7-4394-ba23-33ca1ce14b81">
     </kbd>
     <kbd>
       <kbd>Version Control</kbd>
       <br/><br/>
-      <img align="center" alt="GitHub" height="50" width="50" src="https://github.com/user-attachments/assets/137dfed0-a5bf-48d2-a19a-9129ef7eb895" />
-      <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> 
-      <img align="center" alt="GitLab" height="50" width="50" src="https://github.com/user-attachments/assets/25d57e62-b04f-48d8-a3e9-006afc351d44" /> 
+      <img align="center" alt="GitHub" height="60" width="60" src="https://github.com/user-attachments/assets/137dfed0-a5bf-48d2-a19a-9129ef7eb895" />
+      <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> 
+      <img align="center" alt="GitLab" height="60" width="60" src="https://github.com/user-attachments/assets/25d57e62-b04f-48d8-a3e9-006afc351d44" /> 
     </kbd>
     <kbd>
       <kbd>Environments</kbd>
