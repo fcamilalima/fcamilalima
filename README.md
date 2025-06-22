@@ -33,55 +33,53 @@ I'm currently seeking new opportunities as a developer where I can contribute my
 <h2 align="left">Languages and Technologies I use most:</h2>
 <div align="center">
   <div style="display: inline_block"><br>
-   <kbd>
-       <h3>🔧 Back-end</h3>
-       <br/><br/>
-       <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-       <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/color/96/net-framework.png" /> 
-       <img align="center" alt="VB.NET" height="60" width="60" src="https://img.icons8.com/fluency/96/visual-basic.png" />       
-  </kbd>   
-  <kbd>
-      <h3>🛢️ Database</h3>
+    <kbd>
+      <kbd>Back-end</kbd>
       <br/><br/>
-      <img align="center" alt="MySQL" height="60" width="60" src="https://img.icons8.com/color/96/mysql-logo.png" /> 
-      <img align="center" alt="SQL Server" height="60" width="60" src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="microsoft-sql-server" />
+      <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt=".NET" height="60" width="60" src="https://img.icons8.com/color/96/net-framework.png" /> 
+      <img align="center" alt="VB.NET" height="60" width="60" src="https://img.icons8.com/fluency/96/visual-basic.png" />
+    </kbd>
+    <kbd>
+      <kbd>Database</kbd>
+      <br/><br/>
+      <img align="center" alt="MySQL" height="60" width="60" src="https://github.com/user-attachments/assets/4b39f2e1-2580-4c8a-96ad-9cc1b3fd3334">
+      <img align="center" alt="SQL Server" height="60" width="60" src="https://github.com/user-attachments/assets/07699a26-6748-4bdb-8d67-64da2fdd95f6" />
       <img align="center" alt="PostgreSQL" height="60" width="60" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-shadow-tal-revivo.png" />
-      <img align="center" alt="Elasticsearch" height="60" width="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png" /> 
-  </kbd>     
-
-  <kbd>
-      <h2>🎨 Front-end</h2>
+      <img align="center" alt="Elasticsearch" height="60" width="60" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-elasticsearch-a-search-engine-based-on-the-lucene-library-logo-color-tal-revivo.png" />
+    </kbd>
+    <kbd>
+      <kbd>Front-end</kbd>
       <br/><br/>
       <img align="center" alt="HTML" height="60" width="60" src="https://github.com/user-attachments/assets/0049d0db-c1de-4159-a9c3-fcc54a304ac4">
       <img align="center" alt="CSS" height="60" width="60" src="https://github.com/user-attachments/assets/1a146187-cec1-4875-8787-5aac05116d5f">
       <img align="center" alt="Bootstrap" height="60" width="60" src="https://img.icons8.com/color/96/bootstrap--v2.png" alt="bootstrap--v2" />
       <img align="center" alt="JavaScript" height="60" width="60" src="https://img.icons8.com/color/96/javascript--v1.png" />
-      <img align="center" alt="React" height="60" width="60" src="https://img.icons8.com/plasticine/100/react.png">      
-  </kbd>
-
-  <kbd>
-      <h2>🔄 Version Control</h2>
+      <img align="center" alt="React" height="60" width="60" src="https://github.com/user-attachments/assets/f745d44d-46f7-4394-ba23-33ca1ce14b81">
+    </kbd>
+    <kbd>
+      <kbd>Version Control</kbd>
       <br/><br/>
-      <img align="center" alt="Github" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
-      <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50"/>
-      <img align="center" alt="Gitlab" height="60" width="60" src="https://img.icons8.com/color/96/gitlab.png" height="50"/>
-  </kbd>
-  <kbd>
-      <h2>🛠️ IDE / Environments</h2>
-      <br></br>
-      <img align="center" alt="VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
-      <img align="center" alt="VS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="50"/>
-  </kbd>
-</div>
+      <img align="center" alt="GitHub" height="60" width="60" src="https://github.com/user-attachments/assets/137dfed0-a5bf-48d2-a19a-9129ef7eb895" />
+      <img align="center" alt="Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" /> 
+      <img align="center" alt="GitLab" height="60" width="60" src="https://github.com/user-attachments/assets/25d57e62-b04f-48d8-a3e9-006afc351d44" /> 
+    </kbd>
+    <kbd>
+      <kbd>Environments</kbd>
+      <br/><br/>    
+      <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img align="center" alt="Visual Studio" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
+    </kbd>
+  </div>
 </div>
 
-<h2 align="left">📊 Metrics: </h2>
+<h2 align="left"> Algumas métricas: </h2>
 <div align="center">
   
  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fcamilalima&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcamilalima&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fcamilalima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fcamilalima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcamilalima&layout=compact&langs_count=6&theme=dracula"/><br>
 </div>
       
