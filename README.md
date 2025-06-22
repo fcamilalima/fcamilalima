@@ -30,9 +30,6 @@
 <h2 align="left">🌱 What I'm Looking For</h2>
 I'm currently seeking new opportunities as a developer where I can contribute my skills, learn from others, and grow professionally.
 
-<h2 align="left">
-    <img width="30" height="30" src="https://github.com/user-attachments/assets/5cd39a1c-bf89-4a5f-854b-4f379acc7af5" alt="settings"/>Social Network</h2>
-    <a href="https://www.linkedin.com/in/fcamilalima/" style="margin-right: 200px;"><img width="50" height="50" src="https://github.com/user-attachments/assets/05cb6201-049d-489a-b232-b489a48f5836" alt="linkedin"/></a>   
 <h2 align="left">Languages and Technologies I use most:</h2>
 <div align="center">
   <div style="display: inline_block"><br>
