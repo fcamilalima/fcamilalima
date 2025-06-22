@@ -73,9 +73,9 @@ I'm currently seeking new opportunities as a developer where I can contribute my
   </div>
 </div>
 
-<h2 align="left"> Algumas métricas: </h2>
+<h2 align="left"> Some metrics bellow: </h2>
 <div align="center">
-  
+
  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fcamilalima&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fcamilalima&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
@@ -84,8 +84,8 @@ I'm currently seeking new opportunities as a developer where I can contribute my
 </div>
       
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DanielleBassetto/DanielleBassetto/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fcamilalima/fcamilalima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fcamilalima/fcamilalima/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fcamilalima/fcamilalima/output/github-contribution-grid-snake.svg">
 </picture>
 
