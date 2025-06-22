@@ -67,8 +67,8 @@ I'm currently seeking new opportunities as a developer where I can contribute my
     <kbd>
       <kbd>🛠️ Environments</kbd>
       <br/><br/>    
-      <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img align="center" alt="Visual Studio" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
+      <img align="center" alt="VSCode" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img align="center" alt="Visual Studio" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg"/>
     </kbd>
   </div>
 </div>
