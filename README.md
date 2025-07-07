@@ -56,6 +56,7 @@ I'm currently seeking new opportunities as a developer where I can contribute my
       <img align="center" alt="Bootstrap" height="60" width="60" src="https://img.icons8.com/color/96/bootstrap--v2.png" alt="bootstrap--v2" />
       <img align="center" alt="JavaScript" height="60" width="60" src="https://img.icons8.com/color/96/javascript--v1.png" />
       <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Angular" height="60" width="60" src="https://img.icons8.com/color/96/angularjs.png"">
     </kbd>
     <kbd>
       <kbd>🔄 Version Control</kbd>
